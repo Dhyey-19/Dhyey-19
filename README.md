@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://github.com/your-username/your-repo-name/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Dhyey-19/Dhyey-19/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Dhyey Shah</h1>
@@ -42,12 +42,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-19&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -77,8 +77,8 @@ Here are some of my highlighted projects:
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 🎯 Currently solving DSA problems on:
-- [LeetCode](https://leetcode.com/your-username)
-- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/your-username)
+- [LeetCode](https://leetcode.com/Dhyey-19)
+- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/Dhyey-19)
 
 ---
 
