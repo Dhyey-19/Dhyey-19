@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Dhyey-19/Dhyey-19/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Dhyey Shah</h1>
