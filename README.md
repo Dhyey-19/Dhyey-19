@@ -1,91 +1,112 @@
-<!-- Header Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Dhyey-19/Dhyey-19/blob/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/Dhyey-19/Dhyey-19/blob/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Dhyey Shah</h1>
-<h3 align="center">🚀 Flutter Developer | 💻 Programmer | 🎨 Web Designer</h3>
+<h1 align="center">Hey 👋, I'm Dhyey Shah</h1>
+<h3 align="center">🚀 Founder @ DTech | 💻 Full-Stack Developer | 📱 Flutter Specialist</h3>
+
+<p align="center">
+  Building <strong>Smart Business Tools</strong> & Scalable Applications
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Logistics Solutions**
-- 🌱 Actively learning **Flutter, DSA, and Firebase**
-- 💬 Ask me about **Flutter Development, UI Design, Firebase, Kotlin/Java**
-- ⚡ Fun Fact: I love to build clean, elegant UIs for my clients!
-- 🎯 **Goal 2025**: Publish 2 apps on Google Play Store
+- 🚀 Founder of **DTech** – building digital solutions for businesses  
+- 🔭 Currently working on **Logistics & Business Automation Systems**  
+- 🌱 Exploring **Next.js, System Design & Scalable Architectures**  
+- 💡 Strong focus on **UI/UX + Performance Optimization**  
+- 🎯 Goal: Launch **production-ready SaaS products**  
 
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhyey-shah-ab1a25302/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Dhyey%20Shah-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:dhyeyshah009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dhyey%20Shah-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://dhyeyshah.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack
+
+### 💻 Development
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,firebase,java,kotlin,sqlite" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,azure" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-19&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-19&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements & Certifications
-- 🧠 **BhashaTHON '25 Winners**
-- 🥇 **Google Cloud**: Innovating with AI Badge
-- 👨‍💻 Participated in **DUHacks 4.0**
-- 🔥 Completed **#geekstreak2024** (21 Days Coding Challenge)
+## 🏆 Achievements
+- 🏆 **Bhashathon’25 Winner**
+- 🧠 **Google Cloud – Innovating with AI**
+- 💻 **DUHacks 4.0 Participant**
+- 🔥 Completed **#geekstreak2024**
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack |
-|--------------|-------------|------------|
-| **Ranjit Logistics** | Android-based logistics system with Azure DB | Java, Azure |
-| **Chat App** | Real-time messaging app with media sharing & user profiles | Android, Firebase |
-| **dTrans-SKL** | End-to-end logistics company solution | Flutter, Azure, Firebase |
+### 🔹 Credence – MSME Credit Intelligence Platform
+> AI-powered credit assessment beyond traditional scores  
+- OCR-based bank statement analysis  
+- ML-driven risk & credit recommendations  
+- Tech: **Next.js | Python | ML**
 
 ---
 
-## 🎉 Fun Corner
-> _"Code is like humor. When you have to explain it, it’s bad."_ — **Cory House**
+### 🔹 dTrans-SKL
+> Complete logistics & operations management system  
+- Real-time tracking & automation  
+- Tech: **Flutter | Firebase | Azure**
 
 ---
 
-## 📬 Feedback & Suggestions
-If you have any suggestions, collaboration ideas, or feedback, feel free to reach out via [email](mailto:dhyeyshah009@gmail.com). Let's build something awesome together!
+### 🔹 Ranjit Logistics
+> Business dashboard for logistics operations  
+- Improved operational efficiency  
+- Tech: **Java | Azure**
+
+---
+
+## 💡 What I Build
+✔️ Business Dashboards  
+✔️ SaaS Platforms  
+✔️ Mobile Apps  
+✔️ Custom Client Software  
+
+---
+
+## 🧠 Quote I Believe In
+> “First solve the problem. Then, write the code.”
 
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Dhyey Shah</strong>
+  ⚡ <strong>Open for collaborations & building impactful products</strong>
 </p>
