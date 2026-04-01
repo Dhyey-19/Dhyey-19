@@ -7,17 +7,37 @@
 <h3 align="center">🚀 Founder @ DTech | 💻 Full-Stack Developer | 📱 Flutter Specialist</h3>
 
 <p align="center">
-  Building <strong>Smart Business Tools</strong> & Scalable Applications
+  I build <strong>production-ready business software</strong> that improves operations, saves time, and scales with growth.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🚀 Founder of **DTech** – building digital solutions for businesses  
-- 🔭 Currently working on **Logistics & Business Automation Systems**  
-- 🌱 Exploring **Next.js, System Design & Scalable Architectures**  
-- 💡 Strong focus on **UI/UX + Performance Optimization**  
-- 🎯 Goal: Launch **production-ready SaaS products**  
+- 🚀 Founder of **DTech** — delivering **custom software solutions for real businesses**  
+- 🧩 Built and deployed **client-facing products used in production**  
+- 🔭 Currently working on **Logistics Systems & Business Automation Platforms**  
+- 🧠 Focused on **scalable architecture, clean UI, and performance-driven systems**  
+- ⚙️ Strong in turning **business problems → working software**  
+- 🎯 Goal: Build and scale **SaaS products solving real operational challenges**
+
+---
+
+## 🚀 Startup – DTech
+
+<p align="center">
+  <a href="https://dtechcode.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-DTech-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+**DTech** is a startup focused on building **smart, scalable software solutions for businesses**.
+
+- 🧩 Delivering **custom software tailored to real business needs**
+- 🏢 Worked with clients in **logistics and operations**
+- ⚙️ Focus on **automation, efficiency, and clean system design**
+- 📈 Building products that are **used in real-world workflows**
+
+💡 At DTech, I work closely with clients to **understand problems deeply and turn them into reliable, production-ready solutions**.
 
 ---
 
@@ -50,55 +70,60 @@
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-19&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-- 🏆 **Bhashathon’25 Winner**
-- 🧠 **Google Cloud – Innovating with AI**
-- 💻 **DUHacks 4.0 Participant**
-- 🔥 Completed **#geekstreak2024**
+## 📊 Proof of Work
+- 📱 **Deployed mobile app with active users (50+)**
+- 💼 **Delivered and SOLD production software to clients**
+- 🏢 Built **internal business dashboard** improving operations
+- ⚡ Experience in **end-to-end development (idea → deployment → usage)**
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 Credence – MSME Credit Intelligence Platform
-> AI-powered credit assessment beyond traditional scores  
-- OCR-based bank statement analysis  
-- ML-driven risk & credit recommendations  
-- Tech: **Next.js | Python | ML**
+> Rethinking credit scoring using real financial behavior instead of static scores  
+
+- 📄 Extracted bank statements using **OCR pipelines**  
+- 📊 Analyzed transaction flows to understand business health  
+- 🤖 Built ML models to generate **transparent credit recommendations**  
+- 📈 Output: **risk category, credit limit, interest rate suggestions**  
+
+**Tech:** Next.js | Python | Machine Learning  
 
 ---
 
-### 🔹 dTrans-SKL
-> Complete logistics & operations management system  
-- Real-time tracking & automation  
-- Tech: **Flutter | Firebase | Azure**
+### 🔹 dTrans-SKL *(Client Project — SOLD)*
+> End-to-end logistics management platform used in real operations  
 
----
+- 🚚 Streamlined **tracking, operations & workflow management**  
+- 📱 Live on Play Store with **active users (50+)**  
+- ⚡ Reduced manual coordination and improved operational visibility  
 
-### 🔹 Ranjit Logistics
-> Business dashboard for logistics operations  
-- Improved operational efficiency  
-- Tech: **Java | Azure**
+**Tech:** Flutter | Firebase | Azure  
 
 ---
 
 ## 💡 What I Build
-✔️ Business Dashboards  
-✔️ SaaS Platforms  
-✔️ Mobile Apps  
-✔️ Custom Client Software  
+- 🏢 **Business Dashboards** (operations, analytics, control panels)  
+- 📦 **Logistics & Workflow Systems**  
+- 📱 **Cross-platform Mobile Apps (Flutter)**  
+- ⚙️ **Custom Software for Clients**  
+- ☁️ **Scalable Web Apps (Next.js + Cloud)**  
+
+---
+
+## 🧠 Engineering Approach
+- Solve **real problems**, not just build features  
+- Focus on **clean UI + real usability**  
+- Prioritize **performance & scalability from day one**  
+- Build systems that are **actually used in production**
+
+---
+
+## 🏆 Achievements
+- 🏆 **Bhashathon’25 Winner**
+- 🧠 **Google Cloud – Innovating with AI**
+- 🥇 **Student of the Year (Diploma - 1st & 3rd Year)**
 
 ---
 
@@ -108,5 +133,5 @@
 ---
 
 <p align="center">
-  ⚡ <strong>Open for collaborations & building impactful products</strong>
+  ⚡ <strong>Open to collaborations, freelance projects, and building impactful products</strong>
 </p>
