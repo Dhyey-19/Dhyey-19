@@ -1,75 +1,107 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/Dhyey-19/Dhyey-19/blob/main/banner.png" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Dhyey Shah</h1>
+# 👋 Hey, I'm **Dhyey Shah**
 
-<h3 align="center">
-Software Engineer • Full Stack Developer • Building Production-Grade Business Software
-</h3>
+### 🚀 Software Engineer | Full-Stack Developer | ERP & Business Automation
 
-<p align="center">
-I build scalable ERP systems, logistics platforms, finance software, and AI-powered automation solutions used by real businesses.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Production-Grade+ERP+Systems;Backend+%7C+Cloud+%7C+System+Design;AI+Powered+Business+Automation" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 About Me
 
-- 💻 Full Stack Software Engineer
-- 🚀 Building production-grade ERP, Logistics & Business Automation Software
-- 📱 Developed and deployed real-world web & mobile applications
-- ⚙️ Passionate about System Design, Scalable Architecture & AI-powered solutions
-- 🧠 Solved **600+ DSA problems** on LeetCode & GeeksforGeeks
+- 💻 Software Engineer passionate about building **production-grade software**
+- 🚚 Experienced in **ERP, Logistics, Finance & Business Automation Systems**
+- 🌐 Build scalable **Web Applications**, **Mobile Apps**, and **Backend APIs**
+- ⚙️ Interested in **System Design, Cloud Architecture & AI-powered Automation**
+- 🧩 Solved **600+ DSA Problems** across LeetCode & GeeksforGeeks
 - 🏆 National Hackathon Winner (Bhashathon 2025)
-- 🎯 Open to Software Engineering, Backend & Full Stack opportunities
+- 🚀 Currently looking for **Software Engineering & Full Stack opportunities**
+
+📫 **Reach me at:** `dhyeyshah009@gmail.com`
 
 ---
 
-# 🚀 What I Build
+# 🌐 Connect With Me
 
-- 🚚 Logistics ERP Systems
-- 🏭 Manufacturing ERP Software
-- 💰 Finance & Business Automation Platforms
-- 📱 Flutter Mobile Applications
-- 🌐 Scalable Full Stack Web Applications
-- 🤖 AI-powered Business Solutions
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhyeyshah.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-shah-ab1a25302)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhyey-19)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyeyshah009@gmail.com)
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Programming Languages
 
-## Languages
+<div align="left">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,dart" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,js,dart"/>
 
-## Frameworks & Libraries
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,firebase,dotnet" />
-</p>
+---
 
-**Also Experienced In**
+# ⚙️ Frameworks & Backend
 
-- FastAPI
-- GraphQL
-- JWT Authentication
-- REST APIs
+<div align="left">
 
-## Databases
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,dotnet,firebase"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,azure" />
-</p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-## Tools
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
-</p>
+<img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🗄️ Databases
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,azure"/>
+
+</div>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=azure,docker"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
+
+---
+
+# 🛠️ Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -77,16 +109,16 @@ I build scalable ERP systems, logistics platforms, finance software, and AI-powe
 
 ## 🚚 eTransRL — Logistics ERP *(Client Project • Live)*
 
-Production-grade ERP system managing complete logistics operations.
+Production-grade Logistics ERP managing the complete shipment lifecycle.
 
-### Features
+### Highlights
 
-- Booking, Dispatch & Delivery Management
-- Billing & Accounting Workflows
-- Role-Based Dashboards
-- PDF & Excel Report Generation
-- Email Notifications
-- Operational Analytics
+- 🚛 Booking, Dispatch & Delivery Management
+- 💰 Billing & Accounting Modules
+- 📊 Role-based Dashboards
+- 📄 Automated PDF & Excel Reports
+- 📧 Email Notifications
+- 📈 Operational Analytics
 
 **Tech Stack**
 
@@ -96,17 +128,16 @@ Next.js • React • Node.js • Azure SQL • Azure Web Apps • JWT
 
 ## 🏭 FactoryFlow — Manufacturing ERP *(Client Project)*
 
-End-to-end Manufacturing ERP built for production businesses.
+Complete Manufacturing ERP streamlining production and inventory workflows.
 
-### Features
+### Highlights
 
-- BOM Management
-- Inventory Management
-- Job Work Tracking
-- Assembly Operations
-- Financial Transactions
-- Real-time Reporting
-- RBAC
+- 📦 BOM & Inventory Management
+- 🏗️ Production & Assembly Tracking
+- 📊 Financial Transactions
+- 🔒 Role-Based Access Control
+- 📄 Automated Reporting
+- 📈 Real-time Inventory Monitoring
 
 **Tech Stack**
 
@@ -116,16 +147,16 @@ Next.js • React • Node.js • Azure SQL • Electron • JWT
 
 ## 📱 S. K. Logistics — Mobile Logistics App *(Client Project • Live)*
 
-Production-ready logistics mobile application.
+Production-ready Flutter application for logistics operations.
 
-### Features
+### Highlights
 
-- Shipment Tracking
-- Dispatch Workflow
-- Invoice Generation
-- Firebase Authentication
-- Azure Backend Integration
-- Real-time Operations
+- 🚚 Shipment Tracking
+- 📦 Dispatch Workflow
+- 🧾 Invoice Generation
+- 🔐 Firebase Authentication
+- ☁️ Azure SQL Backend Integration
+- 📲 Google Play Deployment
 
 **Tech Stack**
 
@@ -135,13 +166,13 @@ Flutter • Firebase • Azure SQL • Google Play Console
 
 # 💼 Experience
 
-## 💻 Freelance Software Developer
+## 🚀 Freelance Software Engineer
 
 **Aug 2023 – Present**
 
 - Delivered multiple production-grade ERP, Logistics, Finance and SaaS applications.
-- Managed complete product lifecycle from requirement gathering to deployment and production support.
-- Designed scalable architectures and business automation solutions.
+- Owned the complete product lifecycle from client requirements to deployment.
+- Designed scalable software architecture and business automation solutions.
 
 ---
 
@@ -151,109 +182,61 @@ Flutter • Firebase • Azure SQL • Google Play Console
 
 **Sep 2024 – Oct 2024**
 
-- Built Flutter applications using Firebase Realtime Database & Firestore.
-- Developed REST API integrations.
-- Delivered a production-ready cross-platform News App.
-
----
-
-# 📊 Technical Skills
-
-### Core Computer Science
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- DBMS
-- Software Engineering
-- System Design
-
-### Backend
-
-- Node.js
-- Express.js
-- FastAPI
-- .NET Core
-- GraphQL
-
-### Cloud & DevOps
-
-- Microsoft Azure
-- Google Cloud
-- Docker
-- Render
-- Vercel
+- Developed Flutter applications using Firebase Realtime Database & Firestore.
+- Integrated REST APIs for backend connectivity.
+- Delivered a production-ready News Application.
 
 ---
 
 # 🏆 Achievements
 
-🥇 **National Winner — Bhashathon 2025**
+🏆 **National Hackathon Winner (Bhashathon 2025)**
 
-- Won **₹50,000**
-- Developed an English spelling correction system using RapidFuzz.
+- 🥇 Won **₹50,000**
+- Organized by **Ministry of Electronics & Information Technology (MeitY)**
+- Built a Rule-based English Spelling Correction System using RapidFuzz
 
-🏅 **State Rank 143**
+---
 
-- DDCET among **17,000+ candidates** across Gujarat.
+🥇 **Best Academic Performance Award**
 
-🎓 **Best Academic Performance Award**
+- Diploma in Computer Engineering
+- 1st & 3rd Year Top Performer
 
-- Diploma in Computer Engineering (1st & 3rd Year)
+---
+
+🎖️ **State Rank 143**
+
+DDCET among **17,000+ candidates** across Gujarat.
+
+---
 
 🧩 **600+ DSA Problems Solved**
 
-- LeetCode & GeeksforGeeks
+LeetCode • GeeksforGeeks
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhyey-19&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=tokyonight"/>
+<br>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhyey-19&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyey-19&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=Dhyey-19&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🌐 Connect With Me
+> **"First solve the problem. Then, write the code."**
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/dhyey-shah-ab1a25302/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhyey%20Shah-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### 🚀 Building scalable software, solving real-world problems, and continuously learning.
 
-<a href="mailto:dhyeyshah009@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Connect-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://dhyeyshah.in">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/Dhyey-19">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💡 Engineering Philosophy
-
-> *"First solve the problem. Then, write the code."* — John Johnson
-
----
-
-<p align="center">
-⭐ Always building • Always learning • Always shipping
-</p>
+</div>
